@@ -12,7 +12,16 @@ app.get('/', (req, res) => {
     res.send('Lovely Hearts Rewards Backend!');
 });
 
-app.listen(3000, () => console.log('Server is running on port 3000'));
+app.listen(3000, () => console.log('Server is running on port <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lovely Hearts Rewards</title>
+</head>
+<body>
+    <h1>Welcome to Lovely Hearts Rewards</h1>
+</body>
+</html>
 
 
 
